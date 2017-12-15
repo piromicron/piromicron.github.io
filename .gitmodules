@@ -1,0 +1,3 @@
+[submodule "proj/spine"]
+	path = proj/spine
+	url = https://github.com/piromicron/spine-ui-prototype.git
